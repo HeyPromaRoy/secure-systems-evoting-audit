@@ -6,7 +6,7 @@ This repository documents a security audit conducted as **Phase III (Audit & Ana
 
 **Team:** ThermoRust  
 **Analysts:** Proma Roy, Md Ariful Islam Fahim, Hsiao-Yin Peng, Tahsinur Rahman  
-**Course:** EE 17701 – Secure Systems Engineering  
+**Course:** EE I7701 – Secure Systems Engineering  
 **Institution:** The City College of New York (CCNY)  
 
 ---
